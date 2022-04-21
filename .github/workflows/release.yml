@@ -57,7 +57,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v3
         with:
-          images: docdee/ansible-lint
+          images: docdee/semantic-release-gitea
           tags: |
             type=ref,event=branch
             type=raw,value=${{ needs.release.outputs.app_version }}
