@@ -14,4 +14,3 @@ Installed tools are:
 
 - [CHANGELOG](CHANGELOG.md)
 - [semantic-release-gitea-container on hub.docker.com](https://hub.docker.com/r/docdee/semantic-release-gitea)
-
