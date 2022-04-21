@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [1.0.1](https://github.com/deeagle/semantic-release-gitea-container/compare/v1.0.0...v1.0.1) (2022-04-21)
+
+
+### Bug Fixes
+
+* setup sr install global ([21e81b9](https://github.com/deeagle/semantic-release-gitea-container/commit/21e81b9150440cc35cf5bac03ee6e5b07792efcb))
+
 # 1.0.0 (2022-04-21)
 
 
