@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [1.0.2](https://github.com/deeagle/semantic-release-gitea-container/compare/v1.0.1...v1.0.2) (2022-06-24)
+
+
+### Bug Fixes
+
+* **dockerfile:** update container infos ([daa7153](https://github.com/deeagle/semantic-release-gitea-container/commit/daa7153164f1b8f268a2cd9f89e1e7c102b19a69))
+
 ## [1.0.1](https://github.com/deeagle/semantic-release-gitea-container/compare/v1.0.0...v1.0.1) (2022-04-21)
 
 
