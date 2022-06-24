@@ -1,5 +1,9 @@
 FROM alpine:3
-LABEL maintainer="deeagle <code@deeagle.de>"
+LABEL org.opencontainers.image.authors="Martin Kock <code@deeagle.de>" \
+      org.opencontainers.image.url="https://github.com/deeagle/semantic-release-gitea-container" \
+      org.opencontainers.image.title="Semantic-Release 4 Gitea/Drone-CI." \
+      org.opencontainers.image.description="The tool semantic-release within a container for Gitea/Drone-CI setups." \
+      org.opencontainers.image.vendor="deeagle.de"
 
 WORKDIR /app
 
