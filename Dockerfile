@@ -1,4 +1,4 @@
-FROM alpine:3.18
+FROM alpine:3.19
 LABEL org.opencontainers.image.authors="Martin Kock <code@deeagle.de>" \
       org.opencontainers.image.url="https://github.com/deeagle/semantic-release-gitea-container" \
       org.opencontainers.image.title="Semantic-Release 4 Gitea/Drone-CI." \
