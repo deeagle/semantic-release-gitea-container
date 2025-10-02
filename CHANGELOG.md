@@ -1,5 +1,7 @@
 # Semantic Versioning Changelog
 
+## [1.0.3](https://github.com/deeagle/semantic-release-gitea-container/compare/v1.0.2...v1.0.3) (2025-10-02)
+
 ## [1.0.2](https://github.com/deeagle/semantic-release-gitea-container/compare/v1.0.1...v1.0.2) (2022-06-24)
 
 
